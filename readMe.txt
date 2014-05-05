@@ -5,23 +5,8 @@ that are entered into the system.  The following explains the options that are a
 help option:
 
 addItem
-
-
 deleteItem
-
-
-
 view items
-
-
 addLocation
-
-
-
-
-
 checkdates
-
-
-
 quit
